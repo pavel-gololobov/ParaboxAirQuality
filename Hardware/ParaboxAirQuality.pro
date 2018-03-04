@@ -1,4 +1,4 @@
-update=Вс. 04 марта 2018 14:21:52
+update=Вс 04 мар 2018 19:39:12
 version=1
 last_client=kicad
 [pcbnew]
@@ -195,6 +195,5 @@ LibName163=Transistor_IGBT
 LibName164=Triac_Thyristor
 LibName165=Valve
 LibName166=Video
-LibName167=/home/levap/Yandex.Disk/Павел/Eagle/levap_lbr/ki/0_levap_rf
-LibName168=/home/levap/Yandex.Disk/Павел/Eagle/levap_lbr/ki/0_levap_sensors
-LibName169=/home/levap/Yandex.Disk/Павел/Eagle/levap_lbr/ki/mh-z19
+LibName167=/home/levap/KiCad/KiCadLibs/Levap_RF_Modules
+LibName168=/home/levap/KiCad/KiCadLibs/Levap_Sensors
