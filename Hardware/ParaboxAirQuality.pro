@@ -1,4 +1,4 @@
-update=Вс 04 мар 2018 19:39:12
+update=Чт 08 мар 2018 21:48:49
 version=1
 last_client=kicad
 [pcbnew]
@@ -197,3 +197,13 @@ LibName165=Valve
 LibName166=Video
 LibName167=/home/levap/KiCad/KiCadLibs/Levap_RF_Modules
 LibName168=/home/levap/KiCad/KiCadLibs/Levap_Sensors
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
